@@ -1,0 +1,7 @@
+Do this steps once put 4 files in their right path
+
+1. go to tools Menu/ Flutter / Flutter Upgrade 
+
+2. go to tools Menu/ Flutter /  Flutter pug get
+
+3. go to tools Menu/ Flutter /  Flutter pug Upgrade
